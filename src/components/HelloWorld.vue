@@ -2,16 +2,15 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      张总，唱首歌吧，别摸了
+      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">张宝其三厘米</a>.
     </p>
-    <h3>张宝其是蠢逼(王家轩)</h3>
+    <h3>张宝其是王佳轩的爹(王家轩)</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
+      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">短小无力</a></li>
+      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">年幼不举</a></li>
     </ul>
-    <h3>张宝其别鲁了(王家轩)</h3>
+    <h3>张宝其暴力大飞王佳炫了(王家轩)</h3>
     <ul>
       <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
       <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
