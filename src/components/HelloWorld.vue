@@ -3,14 +3,14 @@
     <h1>{{ msg }}</h1>
     <p>
       张总，唱首歌吧，别摸了
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">张宝其怎么还没开始,就结束了,那女人刚躺下你就软了</a>.
+      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">王家轩怎么还没开始,就结束了,那女人刚躺下你就软了</a>.
     </p>
-    <h3>张宝其是蠢逼(王家轩)</h3>
+    <h3>张宝其是王佳轩的爹(王家轩)</h3>
     <ul>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
     </ul>
-    <h3>张宝其别鲁了(王家轩)</h3>
+    <h3>张宝其暴力大飞王佳炫了(王家轩)</h3>
     <ul>
       <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
       <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
