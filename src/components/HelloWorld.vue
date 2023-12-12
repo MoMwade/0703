@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       张总，唱首歌吧，别摸了
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">张宝其怎么还没开始,就结束了,那女人刚躺下你就软了</a>.
     </p>
     <h3>张宝其是蠢逼(王家轩)</h3>
     <ul>
