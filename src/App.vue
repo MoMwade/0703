@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="欢迎使用vue.js APL 此版本为Vue3000 (张傲宇)"/>
-    <h2>网络测试(张傲宇)</h2>
+    <h2>网络测试(张傲宇)(二次更改)</h2>
   </div>
 </template>
 
